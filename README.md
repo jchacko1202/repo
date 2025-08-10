@@ -45,7 +45,7 @@
 </head>
 <body>
   <nav class="nav">
-    <div class="brand">Your Name</div>
+    <div class="brand">Jacob Chacko</div>
     <div class="nav-links">
       <a href="#about">About</a>
       <a href="#projects">Projects</a>
@@ -58,8 +58,8 @@
   <main>
     <section class="hero" id="home">
       <div class="hero-text">
-        <h1>Hi — I'm Your Name</h1>
-        <p>Student • Developer • Creator. This is a simple, responsive personal website template built to satisfy a class project that requires HTML + CSS (Flexbox), a navigation bar, at least one image, and at least one hyperlink. Customize the copy and projects below to match your work.</p>
+        <h1>Hi — I'm Jacob </h1>
+        <p>I am currently attending Yonkers High School</p>
         <a class="cta" href="#projects">See Projects →</a>
       </div>
       <div class="hero-img">
@@ -96,7 +96,7 @@
   </main>
 
   <footer>
-    <div>© <span id="year"></span> Your Name</div>
+    <div>© <span id="year"></span> Jacob </div>
     <div>Hosted with ❤️ — <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a></div>
   </footer>
 
