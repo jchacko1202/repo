@@ -54,7 +54,6 @@
       <div class="hero-text">
         <h1>Hi — I'm Jacob </h1>
         <p>I am currently attending Yonkers High School and am enrolled in the IB program. The IB (International Baccalaureate) is a rigorous, internationally recognized educational program for students aged 16–19 (for the Diploma Programme). It covers six subject groups — languages, sciences, math, humanities, and arts — along with core components like the Extended Essay (EE), Theory of Knowledge (TOK), and Creativity, Activity, Service (CAS). It’s designed to encourage critical thinking, global awareness, and independent learning, and is often seen as strong preparation for university.</p>
-        <a class="cta" href="#projects">See Projects →</a>
       </div>
       <div class="hero-img">
       </div>
