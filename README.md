@@ -68,12 +68,10 @@
         <article class="card">
           <h3>Robotics (Design Director)</h3>
           <p>The Robotics club comepetes in the FRC competion for the chance to go to nationals. I am charge of "cading (3D modelling)" the robot. </p>
-          <p><a href="#" aria-label="Open project">Open project</a></p>
         </article>
         <article class="card">
           <h3>Indian Gala</h3>
           <p>an annual performance that takes place every year at my school</p>
-          <p><a href="#" aria-label="View pitch">View pitch</a></p>
         </article>
       </div>
     </section>
@@ -85,7 +83,7 @@
   </main>
 
   <footer>
-    <div>© <span id="year"></span> Jacob </div>
+    <div>@ <span id="year"></span> Jacob </div>
     <div>Link to Github pages — <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a></div>
   </footer>
 </body>
