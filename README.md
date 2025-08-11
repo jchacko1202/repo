@@ -47,7 +47,7 @@
     <div class="brand">Jacob Chacko</div>
     <div class="nav-links">
       <a href="#hobbies">Hobbies</a>
-      <a href="#projects">Projects</a>
+      <a href="#projects">Clubs</a>
       <a href="#contact">Contact</a>
       <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
     </div>
@@ -85,8 +85,7 @@
     </section>
     <section id="contact" class="card" style="margin-top:1rem;">
       <h2>Contact</h2>
-      <p>If you'd like to collaborate or see more work, visit my <a href="https://github.com/" target="_blank" rel="noopener">GitHub profile</a> or email me at <a href="mailto:youremail@example.com">youremail@example.com</a>.</p>
-      <!-- Example of an inline image in content -->
+      <p>If you'd like to know more about the IB program, visit <a href="[(https://www.ibo.org/about-the-ib/what-it-means-to-be-an-ib-student/recognizing-student-achievement/about-assessment/dp-passing-criteria/)]" target="_blank" rel="noopener">GitHub profile</a> or email me at <a href="Thisis@fakeemail.com">Thisis@fakeemail.com</a>.</p>
       <p style="margin-top:1rem">Here's another image (class requirement satisfied):</p>
       <img src="https://picsum.photos/seed/portfolio/400/220" alt="project snapshot" style="border-radius:8px;max-width:100%;margin-top:.5rem;">
     </section>
@@ -94,12 +93,7 @@
 
   <footer>
     <div>© <span id="year"></span> Jacob </div>
-    <div>Hosted with ❤️ — <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a></div>
+    <div>Link to Github — <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a></div>
   </footer>
-
-  <script>
-    // Small JS to keep the copyright year current
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
 </body>
 </html>
