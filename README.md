@@ -80,7 +80,7 @@
     </section>
     <section id="contact" class="card" style="margin-top:1rem;">
       <h2>Contact</h2>
-      <p>If you'd like to know more about the IB program, visit <a href="[(https://www.ibo.org)]" target="_blank" rel="noopener"> </a> or email me at <a href="Thisis@fakeemail.com">Thisis@fakeemail.com</a>.</p>
+      <p>If you'd like to know more about the IB program, visit this <a href="https://www.ibo.org/" target="_blank" rel="noopener">link</a> or email me at <a href="Thisis@fakeemail.com">Thisis@fakeemail.com</a>.</p>
       <img src="https://picsum.photos/seed/portfolio/400/220" alt="project snapshot" style="border-radius:8px;max-width:100%;margin-top:.5rem;">
     </section>
   </main>
