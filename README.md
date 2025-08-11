@@ -35,10 +35,6 @@
     .card p{color:#475569}
     footer{padding:1rem 2rem;background:#0f172a;color:#fff;display:flex;justify-content:space-between;align-items:center;gap:1rem}
     footer a{color:#a5b4fc;text-decoration:underline}
-    @media (max-width:720px){
-      .nav{padding:1rem}
-      .hero{flex-direction:column-reverse;align-items:flex-start}
-      .hero-img img{max-width:100%}
     }
   </style>
 </head>
@@ -86,7 +82,6 @@
     <section id="contact" class="card" style="margin-top:1rem;">
       <h2>Contact</h2>
       <p>If you'd like to know more about the IB program, visit <a href="[(https://www.ibo.org/about-the-ib/what-it-means-to-be-an-ib-student/recognizing-student-achievement/about-assessment/dp-passing-criteria/)]" target="_blank" rel="noopener">GitHub profile</a> or email me at <a href="Thisis@fakeemail.com">Thisis@fakeemail.com</a>.</p>
-      <p style="margin-top:1rem">Here's another image (class requirement satisfied):</p>
       <img src="https://picsum.photos/seed/portfolio/400/220" alt="project snapshot" style="border-radius:8px;max-width:100%;margin-top:.5rem;">
     </section>
   </main>
