@@ -57,7 +57,6 @@
         <a class="cta" href="#projects">See Projects →</a>
       </div>
       <div class="hero-img">
-        <img src="https://picsum.photos/600/400?random=8" alt="Example hero image">
       </div>
     </section>
     <section id="about" class="card" style="margin-top:1rem;">
@@ -74,21 +73,21 @@
         </article>
         <article class="card">
           <h3>Indian Gala</h3>
-          <p>an annual performace that takes place every year at my school</p>
+          <p>an annual performance that takes place every year at my school</p>
           <p><a href="#" aria-label="View pitch">View pitch</a></p>
         </article>
       </div>
     </section>
     <section id="contact" class="card" style="margin-top:1rem;">
       <h2>Contact</h2>
-      <p>If you'd like to know more about the IB program, visit <a href="[(https://www.ibo.org/about-the-ib/what-it-means-to-be-an-ib-student/recognizing-student-achievement/about-assessment/dp-passing-criteria/)]" target="_blank" rel="noopener">GitHub profile</a> or email me at <a href="Thisis@fakeemail.com">Thisis@fakeemail.com</a>.</p>
+      <p>If you'd like to know more about the IB program, visit <a href="[(https://www.ibo.org)]" target="_blank" rel="noopener"> </a> or email me at <a href="Thisis@fakeemail.com">Thisis@fakeemail.com</a>.</p>
       <img src="https://picsum.photos/seed/portfolio/400/220" alt="project snapshot" style="border-radius:8px;max-width:100%;margin-top:.5rem;">
     </section>
   </main>
 
   <footer>
     <div>© <span id="year"></span> Jacob </div>
-    <div>Link to Github — <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a></div>
+    <div>Link to Github pages — <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a></div>
   </footer>
 </body>
 </html>
