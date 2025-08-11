@@ -46,10 +46,9 @@
   <nav class="nav">
     <div class="brand">Jacob Chacko</div>
     <div class="nav-links">
-      <a href="#about">About</a>
+      <a href="#hobbies">Hobbies</a>
       <a href="#projects">Projects</a>
       <a href="#contact">Contact</a>
-      <!-- Example hyperlink requirement: link to your GitHub or another site -->
       <a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
     </div>
   </nav>
@@ -58,29 +57,28 @@
     <section class="hero" id="home">
       <div class="hero-text">
         <h1>Hi — I'm Jacob </h1>
-        <p>I am currently attending Yonkers High School</p>
+        <p>I am currently attending Yonkers High School and am enrolled in the IB program. The IB (International Baccalaureate) is a rigorous, internationally recognized educational program for students aged 16–19 (for the Diploma Programme). It covers six subject groups — languages, sciences, math, humanities, and arts — along with core components like the Extended Essay (EE), Theory of Knowledge (TOK), and Creativity, Activity, Service (CAS). It’s designed to encourage critical thinking, global awareness, and independent learning, and is often seen as strong preparation for university.</p>
         <a class="cta" href="#projects">See Projects →</a>
       </div>
       <div class="hero-img">
-        <!-- Example image requirement. Replace src with your own image file when ready. -->
         <img src="https://picsum.photos/600/400?random=8" alt="Example hero image">
       </div>
     </section>
     <section id="about" class="card" style="margin-top:1rem;">
-      <h2>About</h2>
-      <p>Hello! I'm a student working on a personal website project. This about section is a place to describe yourself, your interests, and what you're learning. Because Flexbox is used throughout, content will reflow nicely on small screens.</p>
+      <h2>Hobbies</h2>
+      <p>Some of my hobbies include traveling, driving, and swimming. I plan to one day travel to all 50 states of America, currently I have traveled to only 25 states. I love driving and have been practicing to obtain my licence. Finally swimming is my favorite sport.</p>
     </section>
     <section id="projects" style="margin-top:1rem;">
-      <h2 style="margin-bottom:.75rem;">Projects</h2>
+      <h2 style="margin-bottom:.75rem;">Clubs</h2>
       <div class="projects">
         <article class="card">
-          <h3>Robotics Lesson Slides</h3>
-          <p>Lesson plans and slides about drivetrain design, chassis, and gears.</p>
+          <h3>Robotics (Design Director)</h3>
+          <p>The Robotics club comepetes in the FRC competion for the chance to go to nationals. I am charge of "cading (3D modelling)" the robot. </p>
           <p><a href="#" aria-label="Open project">Open project</a></p>
         </article>
         <article class="card">
-          <h3>Noodle Fan Pitch</h3>
-          <p>A playful product idea: a small fan designed to cool noodles while eating. Includes a short pitch and prototype concept.</p>
+          <h3>Indian Gala</h3>
+          <p>an annual performace that takes place every year at my school</p>
           <p><a href="#" aria-label="View pitch">View pitch</a></p>
         </article>
       </div>
